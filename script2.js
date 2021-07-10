@@ -109,7 +109,7 @@ class CreateParticles {
     this.buttom = false;
 
     this.data = {
-      text: "FUTURE\nIS NOW",
+      text: "FUTURE\nIs Now",
       amount: 1500,
       particleSize: 1,
       particleColor: 0xffffff,
